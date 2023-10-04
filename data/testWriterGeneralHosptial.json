@@ -1,0 +1,106 @@
+{
+    "doctors": [
+        {
+            "patients": [
+                {
+                    "doctor": "",
+                    "hospitalized": false,
+                    "name": "tes",
+                    "weight": 45,
+                    "history": [{
+                        "doctor": "testdoc1",
+                        "finalDate": "",
+                        "reason": "athma",
+                        "initialDate": "12/03/2022"
+                    }],
+                    "id": 0,
+                    "height": 160,
+                    "illness": {
+                        "doctor": "",
+                        "finalDate": "",
+                        "reason": "",
+                        "initialDate": ""
+                    }
+                },
+                {
+                    "doctor": "",
+                    "hospitalized": false,
+                    "name": "crum",
+                    "weight": 200,
+                    "history": [],
+                    "id": 2,
+                    "height": 195,
+                    "illness": {
+                        "doctor": "",
+                        "finalDate": "",
+                        "reason": "",
+                        "initialDate": ""
+                    }
+                }
+            ],
+            "name": "tim"
+        },
+        {
+            "patients": [],
+            "name": "thom"
+        }
+    ],
+    "patients": [
+        {
+            "doctor": "",
+            "hospitalized": false,
+            "name": "tes",
+            "weight": 45,
+            "history": [{
+                "doctor": "testdoc1",
+                "finalDate": "",
+                "reason": "athma",
+                "initialDate": "12/03/2022"
+            }],
+            "id": 0,
+            "height": 160,
+            "illness": {
+                "doctor": "",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }
+        },
+        {
+            "doctor": "",
+            "hospitalized": false,
+            "name": "cruz",
+            "weight": 65,
+            "history": [{
+                "doctor": "testdoc2",
+                "finalDate": "",
+                "reason": "good reason",
+                "initialDate": "22/11/2023"
+            }],
+            "id": 1,
+            "height": 180,
+            "illness": {
+                "doctor": "",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }
+        },
+        {
+            "doctor": "",
+            "hospitalized": false,
+            "name": "crum",
+            "weight": 200,
+            "history": [],
+            "id": 2,
+            "height": 195,
+            "illness": {
+                "doctor": "",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }
+        }
+    ],
+    "id": 3
+}

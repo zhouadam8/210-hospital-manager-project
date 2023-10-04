@@ -1,0 +1,157 @@
+{
+    "doctors": [
+        {
+            "patients": [
+                {
+                    "doctor": "Tom",
+                    "hospitalized": true,
+                    "name": "rob",
+                    "weight": 50,
+                    "history": [{
+                        "doctor": "Tim",
+                        "finalDate": "",
+                        "reason": "",
+                        "initialDate": ""
+                    }],
+                    "id": 1,
+                    "height": 200,
+                    "illness": {
+                        "doctor": "Tom",
+                        "finalDate": "",
+                        "reason": "",
+                        "initialDate": ""
+                    }
+                },
+                {
+                    "doctor": "Tom",
+                    "hospitalized": true,
+                    "name": "adam",
+                    "weight": 50,
+                    "history": [{
+                        "doctor": "Tom",
+                        "finalDate": "",
+                        "reason": "",
+                        "initialDate": ""
+                    }],
+                    "id": 2,
+                    "height": 180,
+                    "illness": {
+                        "doctor": "Tom",
+                        "finalDate": "",
+                        "reason": "",
+                        "initialDate": ""
+                    }
+                }
+            ],
+            "name": "Tom"
+        },
+        {
+            "patients": [],
+            "name": "Tim"
+        },
+        {
+            "patients": [{
+                "doctor": "Tam",
+                "hospitalized": true,
+                "name": "solom",
+                "weight": 50,
+                "history": [],
+                "id": 3,
+                "height": 100,
+                "illness": {
+                    "doctor": "Tam",
+                    "finalDate": "",
+                    "reason": "",
+                    "initialDate": ""
+                }
+            }],
+            "name": "Tam"
+        }
+    ],
+    "patients": [
+        {
+            "doctor": "",
+            "hospitalized": false,
+            "name": "saul",
+            "weight": 20,
+            "history": [
+                {
+                    "doctor": "Tom",
+                    "finalDate": "",
+                    "reason": "",
+                    "initialDate": ""
+                },
+                {
+                    "doctor": "Tom",
+                    "finalDate": "",
+                    "reason": "",
+                    "initialDate": ""
+                }
+            ],
+            "id": 0,
+            "height": 100,
+            "illness": {
+                "doctor": "",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }
+        },
+        {
+            "doctor": "Tom",
+            "hospitalized": true,
+            "name": "rob",
+            "weight": 50,
+            "history": [{
+                "doctor": "Tim",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }],
+            "id": 1,
+            "height": 200,
+            "illness": {
+                "doctor": "Tom",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }
+        },
+        {
+            "doctor": "Tom",
+            "hospitalized": true,
+            "name": "adam",
+            "weight": 50,
+            "history": [{
+                "doctor": "Tom",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }],
+            "id": 2,
+            "height": 180,
+            "illness": {
+                "doctor": "Tom",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }
+        },
+        {
+            "doctor": "Tam",
+            "hospitalized": true,
+            "name": "solom",
+            "weight": 50,
+            "history": [],
+            "id": 3,
+            "height": 100,
+            "illness": {
+                "doctor": "Tam",
+                "finalDate": "",
+                "reason": "",
+                "initialDate": ""
+            }
+        }
+    ],
+    "id": 4
+}
